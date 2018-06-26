@@ -1,0 +1,3 @@
+import geta_tool.main as geta
+reload(geta)
+geta.main()
